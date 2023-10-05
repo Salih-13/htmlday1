@@ -1,0 +1,42 @@
+.heading{
+    font-size: large;
+    color: brown;
+}
+.myimage{
+    border-radius: 50%;
+}
+.button{
+    background-color: gainsboro;
+    color: black;
+    border-color: black;
+    width: 150px;
+    height: 30px;
+    border-radius: 20px;
+}
+.div1{
+    display:flex;
+    width: 15%;
+    justify-content: space-between;
+}
+.line{
+    width: 2px;
+    height: 50px;
+    background-color: black; 
+}
+.mylist{
+    display: flex;
+    width: 50%;
+    justify-content: space-between;
+    align-items: center;
+}
+.parent{
+    display: flex;
+    justify-content: space-around;
+    background-image: url(/pics/pngtree-electronic-technology-website-texture-background-banner-image_156039.jpg);
+}
+.list{
+    display: flex;
+    width: 50%;
+    justify-content: space-between;
+    color: gray;
+}
